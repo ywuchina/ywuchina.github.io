@@ -1,0 +1,31 @@
+# main links links
+main:
+
+  - title: "Research Interests"
+    url: /#ResearchInterests
+
+  - title: "Awards"
+    url: /#Awards
+  
+  - title: "Publications"
+    url: /#publications
+
+  - title: "Team Members"
+    url: /#TeamMembers   
+
+  - title: "Enrollment Informations"
+    url: /#EnrollmentInformations
+#   - title: "Teaching"
+#     url: /teaching/    
+    
+#   - title: "Portfolio"
+#     url: /portfolio/
+        
+#   - title: "Blog Posts"
+#     url: /year-archive/
+    
+#   - title: "CV"
+#     url: /cv/
+    
+#   - title: "Guide"
+#     url: /markdown/

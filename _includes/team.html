@@ -1,0 +1,112 @@
+{% include base_path %}
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<h1 id="TeamMembers">Team Members</h1>
+<p><b>PhD Students</b>: </p>
+<ul>
+<!--一个年级 li，homePage有就加，没有就删了<a>-->
+
+<li style="margin-bottom: 1.5;">
+    <span>
+        <b>PhD of 2022: </b><a href= "https://yyzmars.github.io/" target="_blank">Yongzhe Yuan</a>, <a href= "https://superyuezhang.github.io/" target="_blank">Yue Zhang</a>.
+    </span>
+</li>
+
+<li style="margin-bottom: 1.5;">
+    <span>
+        <b>PhD of 2023: </b><a href= "https://dhq0918.github.io/dinghangqi.github.io/" target="_blank">Hangqi Ding</a>, <a href= "https://cois.xidian.edu.cn/info/1068/1459.htm" target="_blank">Peiran Gong</a>.
+    </span>
+</li>
+</ul>
+
+
+<p><b>Master Students</b>: </p>
+<ul>
+    <li style="margin-bottom: 1.5;">
+        <span>
+            <b>Master of 2021: </b><a href= "https://cois.xidian.edu.cn/info/1068/1460.htm" target="_blank">Xidao Hu</a>, <a href= "https://cois.xidian.edu.cn/info/1068/1461.htm" target="_blank">Jiaming Liu</a>, 
+            <a href= "https://cois.xidian.edu.cn/info/1068/1462.htm" target="_blank">Chuang Luo</a>, Jiaxin Xing.
+        </span>
+    </li>
+
+    <li style="margin-bottom: 1.5;">
+        <span>
+            <b>Master of 2022: </b><a href= "https://cois.xidian.edu.cn/info/1067/1466.htm" target="_blank">Benhua Xiang</a>, <a href= "https://cois.xidian.edu.cn/info/1067/1465.htm" target="_blank">Jinlong Sheng</a>, 
+            <a href= "https://cois.xidian.edu.cn/info/1067/1464.htm" target="_blank">Jiayi Lei</a>, <a href= "https://cois.xidian.edu.cn/info/1067/1463.htm" target="_blank">Congying Hu</a>, 
+            Yifan Sun, Zeyu Zhang.
+        </span>
+    </li>
+
+    <li style="margin-bottom: 1.5;">
+        <span>
+            <b>Master of 2023: </b> Tianyu Bai, Zhigang Gao, Zhipeng Wang, Rongjie Guo, Changhao Liu, Hongfeng Wu.
+        </span>
+    </li>
+</ul>
+
+<p><b>Alumni</b>: </p>
+<ul>
+
+<li style="margin-bottom: 1.5;">
+    <span>
+    <b>Yibo Liu</b>, Master of 2020, Employment: Beijing Megvii Technology.
+    <!-- [<a href= "https://cois.xidian.edu.cn/info/1068/1460.htm" target="_blank">HomePage</a>]  -->
+    </span>
+</li>
+<li style="margin-bottom: 1.5;">
+    <span>
+    <b>Qianlin Yao</b>, Master of 2020, Employment: Shenzhen Leishen Intelligence System.
+    <!-- [<a href= "https://cois.xidian.edu.cn/info/1068/1460.htm" target="_blank">HomePage</a>]  -->
+    </span>
+</li>
+<li style="margin-bottom: 1.5;">
+    <span>
+    <b>Mingyu Yue</b>, Master of 2020, Employment: Yingda Taihe Property Insurance.
+    <!-- [<a href= "https://cois.xidian.edu.cn/info/1068/1460.htm" target="_blank">HomePage</a>]  -->
+    </span>
+</li>
+<li style="margin-bottom: 1.5;">
+    <span>
+    <b>Yejian Cheng</b>, Master of 2020, Employment: Xi'an Aeronautics Computing Technique Research Institute(ACTRI).
+    <!-- [<a href= "https://cois.xidian.edu.cn/info/1068/1460.htm" target="_blank">HomePage</a>]  -->
+    </span>
+</li>
+<li style="margin-bottom: 1.5;">
+    <span>
+    <b>Jinsheng Liu</b>, Master of 2020, Employment: Huawei Xi'an R&D Centre.
+    <!-- [<a href= "https://cois.xidian.edu.cn/info/1068/1460.htm" target="_blank">HomePage</a>]  -->
+    </span>
+</li>
+</ul>
+<hr>
+<h1 id="EnrollmentInformations">Enrollment Informations</h1>
+<p>This year, I am recruiting 3-5 master's students in the Computer Science and Technology program, which is ranked in the top 0.1% according to ESI. Students interested in recommended admission or intending to take the graduate entrance examination are encouraged to get in touch for more details(ywu@xidian.edu.cn). Moreover, our research team has several vacancies for both master's and Ph.D. candidates. You are welcome to join us! </p>
+<p><b>We are looking for individuals who:</b></p>
+<ul>
+    <li style="margin-bottom: 1.5;">
+        Have a profound interest in Artificial Intelligence, enjoy conducting in-depth research, and are motivated by more than just the acquisition of a diploma or degree.
+    </li>
+    <li style="margin-bottom: 1.5;">
+        Are determined to pursue scientific research work after graduation.
+    </li>
+    <li style="margin-bottom: 1.5;">
+        Exhibit a spirit of exploration and are not discouraged by challenges.
+    </li>
+    <li style="margin-bottom: 1.5;">
+        Possess strong English language skills.
+    </li>
+    <li style="margin-bottom: 1.5;">
+        Are mature thinkers with ideals and aspirations.
+    </li>
+</ul>
+<hr>
