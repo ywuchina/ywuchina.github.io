@@ -1,6 +1,9 @@
 # main links links
 main:
 
+  - title: "Service"
+    url: /#service
+    
   - title: "Research Interests"
     url: /#ResearchInterests
 
