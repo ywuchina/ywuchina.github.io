@@ -30,6 +30,9 @@ Since 2007, he has pursued his bachelor's and Ph.D. at Xidian University. After 
 </ul>
 <hr>
 
+  
+{% include service.html %} 
+
 <h1 id="ResearchInterests">Research Interests</h1>
 
 - 3D Vision
@@ -50,8 +53,7 @@ Since 2007, he has pursued his bachelor's and Ph.D. at Xidian University. After 
 - First Prize in CAAI Chinese Youth Congress on Artificial Intelligence (1st Contributor, 2022)
 
 <hr>
-  
-{% include service.html %} 
+
 {% include paper.html %} 
 {% include team.html %} 
 {% include earth.html %} 
