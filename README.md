@@ -7,6 +7,9 @@
 # 添加团队成员
 在 /_includes/team.html 文件中添加
 
+# 添加学术服务
+在 /_includes/service.html 文件中添加
+
 # 修改左边栏作者信息
 在 _config.yml 文件中修改
 
