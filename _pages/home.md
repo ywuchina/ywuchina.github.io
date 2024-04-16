@@ -51,6 +51,7 @@ Since 2007, he has pursued his bachelor's and Ph.D. at Xidian University. After 
 
 <hr>
   
+{% include service.html %} 
 {% include paper.html %} 
 {% include team.html %} 
 {% include earth.html %} 
