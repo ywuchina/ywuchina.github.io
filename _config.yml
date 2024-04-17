@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Yue Wu"
   avatar           :  "yue_wu.jpeg"
-  bio              : "Associate Professor<br>Senior Member, IEEE<br>Email1: ywu@xidian.edu.cn<br>Email2: ywu0912@outlook.com"
+  bio              : "Associate Professor<br>Senior Member, IEEE<br>Email1: <a href="mailto:ywu@xidian.edu.cn">ywu@xidian.edu.cn</a><br>Email2: <a href="mailto:ywu0912@outlook.com">ywu0912@outlook.com</a>"
   location         : "Xidian University"
   employer         : #
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
