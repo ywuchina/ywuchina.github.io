@@ -11,11 +11,11 @@
 在 /_includes/service.html 文件中添加
 
 # 修改左边栏作者信息
-在 _config.yml 文件中修改
+在 _config.yml 文件中修改，其中邮箱信息要在/_includes/author-profile.html 第19行修改
 
 # 修改个人简介、研究兴趣、获奖情况信息
 在 /_pages/home.md 文件中修改
-其中邮箱信息要在/_includes/author-profile.html 第19行修改
+
 
 # 添加顶部导航条
 在 /_data/navigation.yml 件中添加，注意代码格式排版保持和已有代码一样，不然报错。随后在定位的位置添加相同名字的id
