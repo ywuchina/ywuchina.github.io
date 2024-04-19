@@ -50,9 +50,9 @@ Since 2007, he has pursued his bachelor's and Ph.D. at Xidian University. After 
 - Huawei MindSpore Open Source Community Excellence, Mentorship Award, 2023（2023年华为昇思MindSpore开源社区卓越指导教师奖, 1/1）
 - The 38th AAAI, Outstanding paper award, 2024（2024年第38届AAAI人工智能大会（AAAI2024）杰出论文奖, 5/6）
 - Huawei Spark Award, 2022（2022年华为火花奖, 1/1）
-- The 7th CAAI Chinese Youth Congress on Artificial Intelligence, First prize, 2022（2022年第7届全国青年人工智能创新创业大会创新组一等奖, 1/6）
+- The 7th National Youth Artificial Intelligence Innovation and Entrepreneurship Conference, First prize, 2022（2022年第7届全国青年人工智能创新创业大会创新组一等奖, 1/6）
 - The 6th IEEE ACAIT, Best paper, 2022（2022年第6届IEEE亚洲人工智能技术大会最佳论文, 1/6）
-- Shaanxi Provincial Institute of Electronics Science and Technology Award for Natural Sciences, Second Prize, 2022（2022年陕西省电子学会科学技术奖自然科学二等奖, 1/4）
+- Shaanxi Provincial Institute of Electronics Science and Technology Award for Natural Science, Second Prize, 2022（2022年陕西省电子学会科学技术奖自然科学二等奖, 1/4）
 - The 8th IEEE CCIS, Best paper, 2022（2022年IEEE国际云计算与智能系统会议最佳论文, 1/5）
 - Outstanding Association Worker of the CAAI, 2020（2020年中国人工智能学会优秀学会工作者, 1/1）
 - ACM China(Xi'an), Rising star Award, 2020. （2020年ACM中国新星奖（西安）, 1/1）
