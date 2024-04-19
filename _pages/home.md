@@ -37,31 +37,28 @@ Since 2007, he has pursued his bachelor's and Ph.D. at Xidian University. After 
 {% include service.html %} 
 
 <h1 id="ResearchInterests">Research Interests</h1>
-
-- 3D Vision
-- Fundamental Theory and Applications of Artificial Intelligence
+- Computational Intelligence Theory and Applications (Evolutionary computation, Machine Learning, Neural Networks etc.)
+- 3D Computer Vision (Point Cloud Understanding, Registration, Detection, Tracking, Reconstruction etc.)
 - Image Processing and Pattern Recognition
-- Computational Intelligence Theory and Applications
-
 <hr>
 
 <h1 id="Awards">Awards</h1>
 
-- 2023 Shaanxi Province Science and Technology Award for Natural Sciences, Second Prize（2023年陕西省科学技术奖自然科学二等奖）
-- 2023 Wu Wenjun AI & Technology Outstanding Youth Award（2023年吴文俊人工智能优秀青年奖）
-- 2023 Shaanxi Province Youth Science and Technology Star（2023年陕西省青年科技新星）
-- 2024 38th AAAI Outstanding Paper Award（2024年第38届AAAI人工智能大会（AAAI2024）杰出论文奖）
-- 2022 Huawei Spark Award（2022年华为火花奖）
-- 2022 First Prize in 7th CAAI Chinese Youth Congress on Artificial Intelligence（2022年第7届全国青年人工智能创新创业大会创新组一等奖）
-- 2022 Best Paper Award at IEEE 6th ACAIT （2022年第6届IEEE亚洲人工智能技术大会最佳论文）
-- 2022 Shaanxi Provincial Institute of Electronics Science and Technology Award for Natural Sciences, Second Prize（2022年陕西省电子学会科学技术奖自然科学二等奖）
-- 2023 Huawei MindSpore Open Source Community Excellence in Mentorship Award（2023年华为昇思MindSpore开源社区卓越指导教师奖）
-- 2022 Best Paper Award at IEEE International Conference on Cloud Computing and Intelligence Systems. （2020年IEEE 国际云计算与智能系统会议最佳论文）
-- 2020 Outstanding scientific and technological workers of CAAI. （2020年中国人工智能学会优秀学会工作者）
-- 2020 ACM China Rising Star Award. （2020年ACM中国新星奖（西安））
-- 2019 Best Student Paper award at International Conference on Computational Intelligence and Security. （2019年国际计算智能与安全会议最佳学生论文）
-- 2018 Shaanxi Province Science and Technology Workers Innovation and Entrepreneurship Competition Gold Award（2018年陕西省科技工作者创新创业大赛金奖）
-- 2018 Best Paper Award at 5th High-Resolution Earth Observation Academic Annual Conference （2018年第五届高分辨率对地观测学术年会优秀论文奖）
+- Shaanxi Province Science and Technology Award for Natural Sciences, Second Prize, 2023（2023年陕西省科学技术奖自然科学二等奖, 1/6）
+- Wu Wenjun AI & Technology, Outstanding youth award, 2023（2023年吴文俊人工智能优秀青年奖, 1/1）
+- Shaanxi Province Youth Science and Technology Star, 2023（2023年陕西省青年科技新星, 1/1）
+- Huawei MindSpore Open Source Community Excellence, Mentorship Award, 2023（2023年华为昇思MindSpore开源社区卓越指导教师奖, 1/1）
+- The 38th AAAI, Outstanding paper award, 2024（2024年第38届AAAI人工智能大会（AAAI2024）杰出论文奖, 5/6）
+- Huawei Spark Award, 2022（2022年华为火花奖, 1/1）
+- The 7th CAAI Chinese Youth Congress on Artificial Intelligence, First prize, 2022（2022年第7届全国青年人工智能创新创业大会创新组一等奖, 1/6）
+- IEEE 6th ACAIT, Best paper, 2022（2022年第6届IEEE亚洲人工智能技术大会最佳论文, 1/6）
+- Shaanxi Provincial Institute of Electronics Science and Technology Award for Natural Sciences, Second Prize, 2022（2022年陕西省电子学会科学技术奖自然科学二等奖, 1/4）
+- IEEE 8th International Conference on Cloud Computing and Intelligent Systems (CCIS), Best paper, 2022（2022年IEEE国际云计算与智能系统会议最佳论文, 1/5）
+- CAAI, Outstanding scientific and technological workers, 2020（2020年中国人工智能学会优秀学会工作者, 1/1）
+- ACM China(Xian), Rising star Award, 2020. （2020年ACM中国新星奖（西安）, 1/1）
+- The 15th International Conference on Computational Intelligence and Security (CIS), Best student paper, 2019（2019年国际计算智能与安全会议最佳学生论文, 4/5）
+- Shaanxi Province Science and Technology Workers Innovation and Entrepreneurship Competition, Gold Award, 2018（2018年陕西省科技工作者创新创业大赛金奖, 2/6）
+- The 5th High-Resolution Earth Observation Academic Annual Conference, Best paper, 2018（2018年第五届高分辨率对地观测学术年会优秀论文奖, 2/5）
 
 <hr>
 
