@@ -16,6 +16,8 @@
 # 修改个人简介、研究兴趣、获奖情况信息
 在 /_pages/home.md 文件中修改
 
+# 修改左上角logo
+在_includes/masthead.html中修改
 
 # 添加顶部导航条
 在 /_data/navigation.yml 件中添加，注意代码格式排版保持和已有代码一样，不然报错。随后在定位的位置添加相同名字的id
