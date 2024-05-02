@@ -21,7 +21,7 @@ Since 2007, he has pursued his bachelor's and Ph.D. at Xidian University. After 
   <b>2011.08-2016.06</b> &nbsp;&nbsp;&nbsp;&nbsp; Ph.D(advised by Professor Maoguo Gong), School of Electronic Engineering, Xidian University
 </li>
 </ul>
-<hr>
+
 
 <p><b>Working Experience:</b></p>
 <ul>
