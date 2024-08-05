@@ -54,9 +54,8 @@ Since 2007, he has pursued his bachelor's and Ph.D. at Xidian University. After 
 - The 7th National Youth Artificial Intelligence Innovation and Entrepreneurship Conference, First prize, 2022（2022年第7届全国青年人工智能创新创业大会创新组一等奖, 1/6）
 - Shaanxi Innovation and Entrepreneurship Competition For Scientific and Technical Professionals, Gold Award, 2018（2018年陕西省科技工作者创新创业大赛金奖, 2/6）
 - The 6th IEEE ACAIT, Best paper, 2022（2022年第6届IEEE亚洲人工智能技术大会最佳论文, 1/6）
-- The 8th IEEE CCIS, Best paper, 2022（2022年IEEE国际云计算与智能系统会议最佳论文, 1/5）
 - The 15th CIS, Best student paper, 2019（2019年国际计算智能与安全会议最佳学生论文, 4/5）
-- The 5th CHREOC, Best paper, 2018（2018年第五届高分辨率对地观测学术年会优秀论文奖, 2/5）
+- The 5th CHREOC, Best paper, 2018（2018年第5届高分辨率对地观测学术年会优秀论文奖, 2/5）
 - Huawei MindSpore Open Source Community Excellence, Mentorship Award, 2023（2023年华为昇思MindSpore开源社区卓越指导教师奖, 1/1）
 - Outstanding Association Worker of the CAAI, 2020（2020年中国人工智能学会优秀学会工作者, 1/1）
 <hr>
