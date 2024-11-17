@@ -10,7 +10,7 @@ redirect_from:
 
 Yue Wu, Associate Professor, Ph.D. Supervisor at the School of Computer Science and Technology, Xidian University, Shaanxi Youth Science and Technology New Star, IEEE/CCF/CAAI Senior Member, Secretary-General of the CAAI Youth Committee, Executive Member of CCF Xi'an, Chair of CCF YOCSEF Xi'an, Secretary-General of CCF Xi'an Branch. His research interests include computational intelligence and 3D computer vision.
 
-He received the B.Eng. and Ph.D. degrees from Xidian University, Xi’an, China, in 2011 and 2016, respectively. Since 2016, he has been a Teacher with Xidian University. He has published over 50 papers as the first/corresponding author in SCI A1 or CCF-A journals/conference, and 10 papers have been selected as ESI highly cited papers, which have been cited over 3,800 times. He is selected for Stanford University Top 2% Scientists List for three consecutive years (2022-2024). He has applied and authorized over 50 patents. He is leading or has completed more than 20 projects as the principal investigator, including National Natural Science Foundation of China (Key Program, General Program, Youth Program), Natural Science Basic Research Program of Shaanxi (General Program, Youth Program), China Postdoctoral Foundation (Special Foundation, General Program), SAST Fund, and the CAAI-Huawei MindSpore Academic Fund. He has won over 10 academic awards as the first principal investigator, including Second Prize for Science and Technology Award of Shaanxi Province, Outstanding Youth Award of Wu Wenjun AI Science & Technology, Youth Science and Technology Star of Shaanxi Province, and Huawei Spark Award. He serves as the Secretary-General of the Youth Committee of the CAAI, the Chair of CCF YOCSEF Xi’an, and the Secretary-General of the CCF Xi'an Branch. He is also the Associate Editor for Expert Systems with Applications, IEEE Transactions on Emerging Topics in Computational Intelligence, and the Editorial Board Member for Frontiers of Computer Science and CAAI Transactions on Intelligence Technology.
+He received the B.Eng. and Ph.D. degrees from Xidian University, Xi’an, China, in 2011 and 2016, respectively. Since 2016, he has been a Teacher with Xidian University. He has published over 50 papers as the first/corresponding author in SCI A1 or CCF-A journals/conference, and 10 papers have been selected as ESI highly cited papers, which have been cited over 3,800 times. He is selected for Stanford University Top 2% Scientists List (2022-2024). He has applied and authorized over 50 patents. He is leading or has completed more than 20 projects as the principal investigator, including National Natural Science Foundation of China (Key Program, General Program, Youth Program), Natural Science Basic Research Program of Shaanxi (General Program, Youth Program), China Postdoctoral Foundation (Special Foundation, General Program), SAST Fund, and the CAAI-Huawei MindSpore Academic Fund. He has won over 10 academic awards as the first principal investigator, including Second Prize for Science and Technology Award of Shaanxi Province, Outstanding Youth Award of Wu Wenjun AI Science & Technology, Youth Science and Technology Star of Shaanxi Province, and Huawei Spark Award. He serves as the Secretary-General of the Youth Committee of the CAAI, the Chair of CCF YOCSEF Xi’an, and the Secretary-General of the CCF Xi'an Branch. He is also the Associate Editor for Expert Systems with Applications, IEEE Transactions on Emerging Topics in Computational Intelligence, and the Editorial Board Member for Frontiers of Computer Science and CAAI Transactions on Intelligence Technology.
 
 <p><b>Education Experience:</b></p>
 <ul>
@@ -44,11 +44,11 @@ He received the B.Eng. and Ph.D. degrees from Xidian University, Xi’an, China,
 
 <h1 id="Awards">Awards</h1>
 
-- Shaanxi Province Science and Technology Award for Natural Sciences, Second Prize, 2023（2023年陕西省科学技术奖自然科学二等奖, 1/6）
-- Wu Wenjun AI & Technology, Outstanding youth award, 2023（2023年吴文俊人工智能优秀青年奖, 1/1）
-- Shaanxi Province Youth Science and Technology Star, 2023（2023年陕西省青年科技新星, 1/1）
-- ACM China(Xi'an), Rising star Award, 2020. （2020年ACM中国新星奖（西安）, 1/1）
-- The 38th AAAI, Outstanding paper award, 2024（2024年第38届AAAI人工智能大会（AAAI2024）杰出论文奖, 5/6）
+- Science and Technology Award of Shaanxi Province, Second Prize, 2023（2023年陕西省科学技术奖自然科学二等奖, 1/6）
+- Award of Wu Wenjun AI Science & Technology, Outstanding Youth, 2023（2023年吴文俊人工智能优秀青年奖, 1/1）
+- Youth Science and Technology Star of Shaanxi Province, 2023（2023年陕西省青年科技新星, 1/1）
+- ACM China (Xi'an), Rising Star Award, 2020. （2020年ACM中国新星奖（西安）, 1/1）
+- AAAI2024 Outstanding Paper Award, 2024（2024年第38届AAAI人工智能大会（AAAI2024）杰出论文奖, 5/6）
 - Huawei Spark Award, 2022（2022年华为火花奖, 1/1）
 - Shaanxi Provincial Institute of Electronics Science and Technology Award for Natural Science, Second Prize, 2022（2022年陕西省电子学会科学技术奖自然科学二等奖, 1/4）
 - The 7th National Youth Artificial Intelligence Innovation and Entrepreneurship Conference, First prize, 2022（2022年第7届全国青年人工智能创新创业大会创新组一等奖, 1/6）
