@@ -36,8 +36,6 @@ He received the B.Eng. and Ph.D. degrees from Xidian University, Xi’an, China,
 </li>
 </ul>
 <hr>
-  
-{% include service.html %} 
 
 <h1 id="ResearchInterests">Research Interests</h1>
 - Computational Intelligence Theory and Applications (Evolutionary computation, Machine Learning, Neural Networks etc.)
@@ -64,5 +62,6 @@ He received the B.Eng. and Ph.D. degrees from Xidian University, Xi’an, China,
 <hr>
 
 {% include paper.html %} 
+{% include service.html %} 
 {% include team.html %} 
 {% include earth.html %} 
