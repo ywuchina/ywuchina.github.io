@@ -338,5 +338,347 @@ Exploring Dual Representations in Large-Scale Point Clouds: A Simple Weakly Supe
     </span>
 </li>
     
+{% include base_path %}
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+<style>a{text-decoration: none;}</style>
+
+<!--期刊论文-->
+<h1 id="publications">Publications</h1>
+<ul>
+<!--一篇文章一个 li，最新发表的放在最上面,没有code就把code删了-->
+
+
+<!--CCF A-->
+<li style="margin-bottom: 1.5;">
+  <span>
+    Jiaming Liu, <b>Yue Wu*</b>, Qiguang Miao, Maoguo Gong, Linghe Kong,
+    Revisiting Siamese-Based 3D Single Object Tracking with a Versatile Transformer,
+    <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</i>, 2025.(<b>CCF A</b>)
+    [<a href="https://ieeexplore.ieee.org/abstract/document/11045222" target="_blank">Paper</a>]
+  </span>
+</li>
+<li style="margin-bottom: 1.5;">
+<span>
+  Maoguo Gong, Yuan Gao, <b>Yue Wu</b>, Yuanqiao Zhang, A. K. Qin, Yew Soon Ong,
+Heterogeneous Multi-Party Learning with Data-Driven Network Sampling, 
+<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</i>, 2023.(<b>CCF A, IF=18.6</b>) 
+[<a href= "https://ieeexplore.ieee.org/abstract/document/10167861" target="_blank">Paper</a>]
+</span>
+</li>
+
+<!--TNN 8.9-->
+
+<li style="margin-bottom: 1.5;">
+  <span>
+    Yongzhe Yuan, <b>Yue Wu<sup>*</sup></b>, Maoguo Gong, Qiguang Miao, A. K. Qin,
+    One-Nearest Neighborhood Guides Inlier Estimation for Unsupervised Point Cloud Registration,
+    <i>IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</i>, 2025.
+    (<b>IF=8.9</b>)
+    [<a href="https://ieeexplore.ieee.org/abstract/document/10742111" target="_blank">Paper</a>]
+  </span>
+</li>
+<li style="margin-bottom: 1.5;">
+  <span>
+  <b>Yue Wu</b>, Yue Zhang, Wenping Ma, Maoguo Gong, Xiaolong Fan, Mingyang Zhang, A. K. Qin, Qiguang Miao,
+  RORNet: Partial-to-Partial Registration Network with Reliable Overlapping Representations, 
+  <i>IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</i>, 2023.(<b>IF=8.9</b>) 
+  [<a href= "https://ieeexplore.ieee.org/document/10168979" target="_blank">Paper</a>]
+  [<a href= "https://github.com/superYuezhang/RORNet" target="_blank">Code</a>] 
+  </span>
+</li>
+<li style="margin-bottom: 1.5;">
+      <span>
+      Wenping Ma, Mingyu Yue, <b>Yue Wu<sup>*</sup></b>, Yongzhe Yuan, Hao Zhu, Biao Hou, Licheng Jiao,
+      Explore the Influence of Shallow Information on Point Cloud Registration, 
+      <i>IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</i>, 2023.(<b>IF=8.9</b>) 
+      [<a href= "https://ieeexplore.ieee.org/abstract/document/10185932" target="_blank">Paper</a>]
+      </span>
+ </li>
+<li style="margin-bottom: 1.5;">
+    <span>
+    <b>Yue Wu</b>, Jiaheng Li, Yongzhe Yuan, A. K. Qin, Qiguang Miao, Maoguo Gong
+    Commonality Autoencoder: Learning Common Features for Change Detection from Heterogeneous Images, 
+    <i>IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</i>, 2022. (<b>IF=8.9</b>) 
+    [<a href= "https://ieeexplore.ieee.org/abstract/document/9357940" target="_blank">Paper</a>]
+    [<a href= "https://github.com/ywuchina/TeamCode/tree/main/COAE" target="_blank">Code</a>]  
+    </span>
+ </li>
+
+
+
+<!--TEVC 12-->
+
+<li style="margin-bottom: 1.5;">
+  <span>
+    <b>Yue Wu</b>, Chuang Luo, Maoguo Gong, Hangqi Ding, Jinlong Sheng, Qiguang Miao,
+    Hao Li, Wenping Ma, Hao He,
+    Multi-Task Multi-Scale Feature Selection for Point Cloud Registration Evolution,
+    <i>IEEE Transactions on Evolutionary Computation (<b>TEVC</b>)</i>, 2025. (<b>IF=12</b>)
+    [<a href="https://ieeexplore.ieee.org/abstract/document/10829809" target="_blank">Paper</a>]
+    [<a href="https://github.com/ywuchina/TeamCode/tree/MMFS" target="_blank">Code</a>]
+  </span>
+</li>
+
+
+<li style="margin-bottom: 1.5;">
+  <span>
+  <b>Yue Wu</b>, Jinlong Sheng, Hangqi Ding, Peiran Gong, Hao Li, Maoguo Gong, Wenping Ma, Qiguang Miao,
+  Evolutionary Multitasking Descriptor Optimization for Point Cloud Registration, 
+  <i>IEEE Transactions on Evolutionary Computation (<b>TEVC</b>)</i>, 2024.(<b>IF=12</b>) 
+  [<a href= "https://ieeexplore.ieee.org/abstract/document/10566881" target="_blank">Paper</a>]
+  [<a href="https://github.com/ywuchina/TeamCode/tree/AEMT/AEMT" target="_blank">Code</a>]
+
+  </span>
+  </li>
+
+
+<li style="margin-bottom: 1.5;">
+  <span>
+  <b>Yue Wu</b>, Hangqi Ding, Maoguo Gong, A. K. Qin, Wenping Ma, Qiguang Miao, Kay Chen Tan,
+  Evolutionary Multiform Optimization with Two-Stage Bidirectional Knowledge Transfer Strategy for Point Cloud Registration, 
+  <i>IEEE Transactions on Evolutionary Computation (<b>TEVC</b>)</i>, 2024.(<b>IF=12</b>) 
+  [<a href= "https://ieeexplore.ieee.org/document/9925083" target="_blank">Paper</a>]
+  [<a href= "https://github.com/ywuchina/TeamCode/tree/tevc-2022-dhq" target="_blank">Code</a>] 
+  </span>
+  </li>
+
+
+  <li style="margin-bottom: 1.5;">
+    <span>
+      Zedong Tang, Maoguo Gong, <b>Yue Wu</b>, Wenfeng Liu, Yu Xie,
+    Regularized Evolutionary Multitask Optimization: Learning to Intertask Transfer in Aligned Subspace, 
+    <i>IEEE Transactions on Evolutionary Computation (<b>TEVC</b>)</i>, 2021.(<b>IF=12</b>) 
+    [<a href= "https://ieeexplore.ieee.org/abstract/document/9195010" target="_blank">Paper</a>]
+    </span>
+  </li>
+
+
+<!--TVCG-->
+      <li style="margin-bottom: 1.5;">
+        <span>
+        Yongzhe Yuan,<b> Yue Wu<sup>*</sup></b>, Xiaolong Fan, Maoguo Gong, Wenping Ma, Qiguang Miao,
+        EGST: Enhanced Geometric Structure Transformer for Point Cloud Registration, 
+        <i>IEEE Transactions on Visualization and Computer Graphics (<b>TVCG</b>)</i>, 2023.(<b>CCF A</b>) 
+        [<a href= "https://ieeexplore.ieee.org/abstract/document/10319695" target="_blank">Paper</a>]
+        </span>
+        </li>
+
+  <!--TCYB 10.5-->
+  <li style="margin-bottom: 1.5;">
+    <span>
+      Zedong Tang, Maoguo Gong, <b>Yue Wu</b>, A. K. Qin, Kay Chen Tan,
+    A Multifactorial Optimization Framework Based on Adaptive Intertask Coordinate System, 
+    <i>IEEE Transactions on Cybernetics (<b>TCYB</b>)</i>, 2022.(<b>IF=10.5</b>) 
+    [<a href= "https://ieeexplore.ieee.org/abstract/document/9325875" target="_blank">Paper</a>]
+    </span>
+    </li>
+
+
+<!-- INFFUS  15.5-->
+<li style="margin-bottom: 1.5;">
+  <span>
+  <b>Yue Wu</b>, Jiaming Liu, Maoguo Gong, Qiguang Miao, Wenping Ma, Cai Xu,
+  Joint Semantic Segmentation Using Representations of LiDAR Point Clouds and Camera Images, 
+  <i>Information Fusion (<b>INFFUS</b>)</i>, 2024.(<b>IF=15.5</b>) 
+  [<a href= "https://www.sciencedirect.com/science/article/abs/pii/S1566253524001489" target="_blank">Paper</a>]
+  </span>
+  </li>
+
+
+<!--TKDE-->
+      <li style="margin-bottom: 1.5;">
+        <span>
+          Xiaolong Fan, Maoguo Gong, <b>Yue Wu</b>, Hao Li,
+        Maximizing Mutual Information Across Feature and Topology Views for Representing Graphs, 
+        <i>IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</i>, 2023.(<b>CCF A</b>) 
+        [<a href= "https://ieeexplore.ieee.org/abstract/document/10093032" target="_blank">Paper</a>]
+        </span>
+        </li>
+      
+        <li style="margin-bottom: 1.5;">
+          <span>
+            Xiaolong Fan, Maoguo Gong, <b>Yue Wu</b>, A. K. Qin, Yu Xie,
+          Propagation Enhanced Neural Message Passing for Graph Representation Learning, 
+          <i>IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</i>, 2023.(<b>CCF A</b>) 
+          [<a href= "https://ieeexplore.ieee.org/abstract/document/9508847" target="_blank">Paper</a>]
+          </span>
+          </li>
+  
+  <!--计算机研究与发展-->
+<li style="margin-bottom: 1.5;">
+  <span>
+    <b>武越</b>, 苑咏哲, 岳铭煜, 公茂果, 李豪, 张明阳, 马文萍, 苗启广,
+  点云配准中多维度信息融合的特征挖掘方法, 
+  <i>计算机研究与发展  </i>, 2022.
+  [<a href= "https://doi.org/10.7544/issn1000-1239.20220042" target="_blank">Paper</a>]
+  </span>
+  </li>
+
+
+  <!--中国科学-->
+  <li style="margin-bottom: 1.5;">
+    <span>
+      <b>武越</b>, 白壮飞, 公茂果, 曲博艺婷, 李豪, 张明阳, 马文萍, 苗启广,
+    遥感图像配准中的群智汇聚方法, 
+    <i>中国科学  </i>, 2023.
+    [<a href= "https://doi.org/10.1360/SST-2021-0193" target="_blank">Paper</a>]
+    </span>
+    </li>
+
+<li style="margin-bottom: 1.5;">
+  <span>
+    <b>Yue Wu</b>, Jun Jiang, Yongzhe Yuan, Maoguo Gong, Qiguang Miao, Hao Li, Mingyang Zhang,
+    PointTruss: K-Truss for Point Cloud Registration,
+    <i>Annual Conference on Neural Information Processing Systems (<b>NeurIPS</b>)</i>, 2025.(<b>CCF A</b>)
+    [<a href="https://openreview.net/forum?id=MuxBO5f8mL" target="_blank">Paper</a>]
+  </span>
+</li>
+
+<li style="margin-bottom: 1.5;">
+<span>
+  <b>Yue Wu</b>, Xidao Hu, Yongzhe Yuan, Xiaolong Fan, Maoguo Gong, Hao Li, Mingyang Zhang, Qiguang Miao, Wenping Ma,
+PointMC: Multi-instance Point Cloud Registration Based on Maximal Cliques, 
+<i>International Conference on Machine Learning (<b>ICML</b>)</i>, 2024.(<b>CCF A</b>) 
+[<a href= "https://doi.org/10.1609/aaai.v38i11.29078" target="_blank">Paper</a>]
+<!-- [<a href= "https://github.com/jiajunsi/RCML" target="_blank">Code</a>] -->
+</span>
+</li>  
+  
+<li style="margin-bottom: 1.5;">
+  <span>
+    Tengfei Xiao, <b>Yue Wu<sup>*</sup></b>, Yuelong Li, Can Qin, Maoguo Gong, Qiguang Miao, Wenping Ma,
+    Disentangled Pose and Appearance Guidance for Multi-Pose Generation,
+    <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)</i>, 2025.(<b>CCF A</b>)
+    [<a href="https://openaccess.thecvf.com/content/CVPR2025/html/Xiao_Disentangled_Pose_and_Appearance_Guidance_for_Multi-Pose_Generation_CVPR_2025_paper.html" target="_blank">Paper</a>]
+  </span>
+</li>
+
+<li style="margin-bottom: 1.5;">
+  <span>Yongzhe Yuan, <b>Yue Wu<sup>*</sup></b>, Xiaolong Fan, Maoguo Gong, Qiguang Miao, Wenping Ma, 
+      Inlier Confidence Calibration for Point Cloud Registration,
+      <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)</i>, 2024.(<b>CCF A</b>) 
+      [<a  target="https://openaccess.thecvf.com/content/CVPR2024/html/Yuan_Inlier_Confidence_Calibration_for_Point_Cloud_Registration_CVPR_2024_paper.html">Paper</a>] 
+      [<a href= "https://github.com/YYZMARS/ICC" target="_blank">Code</a>]
+      </span>
+</li>
+  
+<li style="margin-bottom: 1.5;">
+  <span>
+  Zedong Tang, Fenlong Jiang, Maoguo Gong, Hao Li, <b>Yue Wu</b>, Fan Yu, Zidong Wang, Min Wang,
+  SKFAC: Training Neural Networks with Faster Kronecker-factored Approximate Curvature, 
+  <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)</i>, 2021.(<b>CCF A</b>) 
+  [<a href= "https://openaccess.thecvf.com/content/CVPR2021/html/Tang_SKFAC_Training_Neural_Networks_With_Faster_Kronecker-Factored_Approximate_Curvature_CVPR_2021_paper.html" target="_blank">Paper</a>]
+  </span>
+</li>
+
+<li style="margin-bottom: 1.5;">
+  <span>
+    <b>Yue Wu<sup>*</sup></b>, Zhigang Gao, Yongzhe Yuan, Can Qin, Tengfei Xiao, Hao Li, Kaiyuan Feng, Wenping Ma,
+    Hybrid Vector-Occupancy Field for Robust Implicit 3D Surface Reconstruction,
+    <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</i>, 2026.
+    (<b>CCF A</b>)
+  </span>
+</li>
+  
+<li style="margin-bottom: 1.5;">
+  <span>
+    Tengfei Xiao, <b>Yue Wu<sup>*</sup></b>, Zhigang Gao, Yongzhe Yuan, Can Qin, Hao Li, Mingyang Zhang,
+    DcSplat: Dual-Constraint Human Gaussian Splatting with Latent Multi-View Consistency,
+    <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</i>, 2026.
+    (<b>CCF A</b>)
+  </span>
+</li>
+  
+<li style="margin-bottom: 1.5;">
+  <span>
+    <b>Yue Wu<sup>*</sup></b>, Zhipeng Wang, Yongzhe Yuan, Maoguo Gong, Hao Li, Mingyang Zhang, Wenping Ma, Qiguang Miao,
+    MUCD: Unsupervised Point Cloud Change Detection via Masked Consistency,
+    <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</i>, 2025.(<b>CCF A</b>)
+    [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/32918" target="_blank">Paper</a>]
+  </span>
+</li>
+  
+<li style="margin-bottom: 1.5;">
+  <span>
+    Yue Zhang, <b>Yue Wu<sup>*</sup></b>, Wenping Ma, Maoguo Gong, Hao Li, Biao Hou,
+    Partial Point Cloud Registration with Multi-view 2D Image Learning,
+    <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</i>, 2025.(<b>CCF A</b>)
+    [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/33121" target="_blank">Paper</a>]
+  </span>
+</li>
+
+<li style="margin-bottom: 1.5;">
+  <span>
+    Yongzhe Yuan, <b>Yue Wu<sup>*</sup></b>, Xiaolong Fan, Maoguo Gong, Qiguang Miao, Wenping Ma,
+    Where Precision Meets Efficiency: Transformation Diffusion Model for Point Cloud Registration,
+    <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</i>, 2025.(<b>CCF A</b>)
+    [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/33055" target="_blank">Paper</a>]
+  </span>
+</li>
+
+<li style="margin-bottom: 1.5;">
+<span>
+  Cai Xu, Jiajun Si, Ziyu Guan, Wei Zhao, <b>Yue Wu</b>, Xiyue Gao,
+Reliable Conflictive Multi-View Learning, 
+<i>AAAI Conference on Artificial Intelligence (<b>AAAI, Outstanding Paper</b>)</i>, 2024.(<b>CCF A</b>) 
+[<a href= "https://doi.org/10.1609/aaai.v38i11.29078" target="_blank">Paper</a>]
+[<a href= "https://github.com/jiajunsi/RCML" target="_blank">Code</a>]
+</span>
+</li>  
+
+<li style="margin-bottom: 1.5;">
+    <span>Jiaming Liu, <b>Yue Wu<sup>*</sup></b>, Maoguo Gong, Qiguang Miao, Wenping Ma, Cai Xu, Can Qin 
+    M3SOT: Multi-Frame, Multi-Field, Multi-Space 3D Single Object Tracking, 
+    <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</i>, 2024.(<b>CCF A</b>) 
+    [<a href= "https://ojs.aaai.org/index.php/AAAI/article/view/28152" target="_blank">Paper</a>] 
+    [<a href= "https://github.com/liujia99/M3SOT" target="_blank">Code</a>] 
+    </span>
+</li>
+
+<!--缺代码-->
+<li style="margin-bottom: 1.5;">
+<span>
+Xiaolong Fan, Maoguo Gong, <b>Yue Wu</b>, Zedong Tang, Jieyi Liu,
+Neural Gaussian Similarity Modeling for Differential Graph Structure Learning, 
+<i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</i>, 2024.(<b>CCF A</b>) 
+[<a href= "https://doi.org/10.1609/aaai.v38i11.29078" target="_blank">Paper</a>]
+</span>
+</li>  
+
+
+<li style="margin-bottom: 1.5;">
+<span>
+Jiaming Liu, <b>Yue Wu<sup>*</sup></b>, Maoguo Gong, Qiguang Miao, Wenping Ma, Cai Xu,
+Exploring Dual Representations in Large-Scale Point Clouds: A Simple Weakly Supervised Semantic Segmentation Framework, 
+<i>ACM International Conference on Multimedia (<b>ACM MM</b>)</i>, 2023.(<b>CCF A</b>) 
+[<a href= "https://dl.acm.org/doi/abs/10.1145/3581783.3612224" target="_blank">Paper</a>]
+[<a href= "https://github.com/ywu0912/TeamCode.git" target="_blank">Code</a>] 
+</span>
+</li>  
+
+
+
+<li style="margin-bottom: 1.5;">
+    <span>
+    Cai Xu, Zehui Li, Ziyu Guan, Wei Zhao, Xiangyu Song, <b>Yue Wu</b>, Jianxin Li,
+    Unbalanced Multi-view Deep Learning, 
+    <i>ACM International Conference on Multimedia (<b>ACM MM</b>)</i>, 2023.(<b>CCF A</b>) 
+    [<a href= "https://dl.acm.org/doi/abs/10.1145/3581783.3612527" target="_blank">Paper</a>]
+    [<a href= "https://github.com/xdmvteam/UMDL" target="_blank">Code</a>] 
+    </span>
+</li>
+    
+
+
 
 <hr>
