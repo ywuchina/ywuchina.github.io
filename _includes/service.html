@@ -1,11 +1,15 @@
 <style>
-#service ul {
+/* 强制 service 模块里的所有 ul 都用实心圆点，并匹配 publications 样式 */
+#service ~ ul,
+#service ~ p + ul {
   list-style-type: disc !important;
-  margin-left: 20px;
+  margin-left: 20px !important;
 }
+
+a { text-decoration: none; }
 </style>
 
-<style>a{text-decoration: none;}</style>
+
 <h1 id="service">Academic Service</h1>
 
 <p><b>Academic Organizations Serving:</b></p>
@@ -50,6 +54,7 @@
 </ul>
 
 <hr>
+
 
 
 
