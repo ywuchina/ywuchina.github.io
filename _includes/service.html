@@ -1,107 +1,34 @@
-{% include base_path %}
-{% if post.header.teaser %}
-  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
-{% else %}
-  {% assign teaser = site.teaser %}
-{% endif %}
-
-{% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-{% else %}
-  {% assign title = post.title %}
-{% endif %}
-
 <h1 id="service">Academic Service</h1>
-<!--学术组织任职-->
+
 <p><b>Academic Organizations Serving:</b></p>
 <ul>
-<!--一个任职一个li，注意放在属于他的ul里面-->
-<li style="margin-bottom: 1.5;">
-   The Youth Committee Secretary-General of the CAAI (2022-present)
-</li>
-
-<li style="margin-bottom: 1.5;">
-   The Chairperson of CCF YOCSEF Xi'an (2021-2022)
-</li>
-
-<li style="margin-bottom: 1.5;">
-   The Secretary-General of the CCF Xi'an Branch (2020-2022)
-</li>
-
-<li style="margin-bottom: 1.5;">
-   IEEE Senior Member (2024-present)
-</li>
-
-<li style="margin-bottom: 1.5;">
-   The Member of the Committee on 3D Vision of the China Society for Image and Graphics (2022-present)
-</li>
+  <li style="margin-bottom: 1.5;">The Youth Committee Secretary-General of the CAAI (2022-present)</li>
+  <li style="margin-bottom: 1.5;">The Chairperson of CCF YOCSEF Xi'an (2021-2022)</li>
+  <li style="margin-bottom: 1.5;">The Secretary-General of the CCF Xi'an Branch (2020-2022)</li>
+  <li style="margin-bottom: 1.5;">IEEE Senior Member (2024-present)</li>
+  <li style="margin-bottom: 1.5;">The Member of the Committee on 3D Vision of the China Society for Image and Graphics (2022-present)</li>
 </ul>
 
-<!--期刊任职-->
 <p><b>Academic Journals Serving:</b></p>
 <ul>
-<!--一个任职一个li-->
-<li style="margin-bottom: 1.5;">
-   Associate Editor of IEEE Transactions on Evolutionary Computation (IF: 12, SCI A1 TOP) (2024-present)
-</li> 
-  
-<li style="margin-bottom: 1.5;">
-   Associate Editor of Expert Systems with Applications (IF: 7.5, SCI A1 TOP) (2024-present)
-</li>
-
-<li style="margin-bottom: 1.5;">
-   Associate Editor of IEEE Transactions on Emerging Topics in Computational Intelligence (IF: 6.5) (2024-present)
-</li>
-
-<li style="margin-bottom: 1.5;">
-   The editorial board member for Frontiers of Computer Science (CCF B) (2022-present)
-</li>
-
-<li style="margin-bottom: 1.5;">
-   The editorial board member for CAAI Transactions on Intelligence Technology ((IF: 7.3, SCI A1 TOP) (2022-present)
-</li>
-
-<li style="margin-bottom: 1.5;">
-   Special Issue Editor of Remote Sensing (SCI A2) (2022-present)
-</li>
+  <li style="margin-bottom: 1.5;">Associate Editor of IEEE Transactions on Evolutionary Computation (IF: 12, SCI A1 TOP) (2024-present)</li>
+  <li style="margin-bottom: 1.5;">Associate Editor of Expert Systems with Applications (IF: 7.5, SCI A1 TOP) (2024-present)</li>
+  <li style="margin-bottom: 1.5;">Associate Editor of IEEE Transactions on Emerging Topics in Computational Intelligence (IF: 6.5) (2024-present)</li>
+  <li style="margin-bottom: 1.5;">Editorial Board Member of Frontiers of Computer Science (CCF B) (2022-present)</li>
+  <li style="margin-bottom: 1.5;">Editorial Board Member of CAAI Transactions on Intelligence Technology (IF: 7.3, SCI A1 TOP) (2022-present)</li>
+  <li style="margin-bottom: 1.5;">Special Issue Editor of Remote Sensing (SCI A2) (2022-present)</li>
 </ul>
 
-<!--会议任职-->
 <p><b>Academic Conferences Serving:</b></p>
 <ul>
-<!--一个任职一个li-->
-<li style="margin-bottom: 1.5;">
-   PC Member for the 38th Annual Conference on Neural Information Processing Systems (NeurIPS 2024)
-</li>
-  
-<li style="margin-bottom: 1.5;">
-   PC Member for the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)
-</li>
-
-<li style="margin-bottom: 1.5;">
-   PC Member for the 37th AAAl Conference on Artificial Intelligence (AAAI 2023)
-</li>
-
-<li style="margin-bottom: 1.5;">
-   PC Member for the 31st ACM International Conference on Multimedia (ACM MM 2023)
-</li>
-  
-<li style="margin-bottom: 1.5;">
-   TC Member for the 8th IEEE International Conference on Cloud Computing and Intelligent Systems (IEEE CCIS 2022)
-</li>
-  
-<li style="margin-bottom: 1.5;">
-   OC Chair for the 7th IEEE International Conference on Cloud Computing and Intelligent Systems (IEEE CCIS 2021)
-</li>
-
-<li style="margin-bottom: 1.5;">
-   Registration Chair for the 11th International Conference on Bio-inspired Computing: Theories and Applications (BIC-TA 2016)
-</li>
-
-<li style="margin-bottom: 1.5;">
-   Vice Chair of Publications for the 6th CCF Big Data (2018)
-</li>
+  <li style="margin-bottom: 1.5;">PC Member for the 38th Annual Conference on Neural Information Processing Systems (NeurIPS 2024)</li>
+  <li style="margin-bottom: 1.5;">PC Member for the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)</li>
+  <li style="margin-bottom: 1.5;">PC Member for the 37th AAAI Conference on Artificial Intelligence (AAAI 2023)</li>
+  <li style="margin-bottom: 1.5;">PC Member for the 31st ACM International Conference on Multimedia (ACM MM 2023)</li>
+  <li style="margin-bottom: 1.5;">TC Member for the 8th IEEE International Conference on Cloud Computing and Intelligent Systems (IEEE CCIS 2022)</li>
+  <li style="margin-bottom: 1.5;">OC Chair for the 7th IEEE International Conference on Cloud Computing and Intelligent Systems (IEEE CCIS 2021)</li>
+  <li style="margin-bottom: 1.5;">Registration Chair for the 11th International Conference on Bio-inspired Computing: Theories and Applications (BIC-TA 2016)</li>
+  <li style="margin-bottom: 1.5;">Vice Chair of Publications for the 6th CCF Conference on Big Data (CCF Big Data 2018)</li>
 </ul>
 
 <hr>
-
