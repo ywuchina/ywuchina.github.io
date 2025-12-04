@@ -7,12 +7,6 @@ redirect_from:
   - /home/
   - /home.html
 ---
-<style>
-#service ul {
-  list-style-type: disc !important;
-  margin-left: 20px;
-}
-</style>
 
 Yue Wu, Professor, Ph.D. Supervisor at the School of Computer Science and Technology, Xidian University, Shaanxi Youth Science and Technology New Star, IEEE/CCF/CAAI Senior Member, Secretary-General of the CAAI Youth Committee, Executive Member of CCF Xi'an, Chair of CCF YOCSEF Xi'an, Secretary-General of CCF Xi'an Branch. His research interests include computational intelligence and 3D computer vision.
 
